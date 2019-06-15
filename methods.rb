@@ -10,8 +10,10 @@ def print_student_names
 end
 
 def  print_student_names(first,second, third, fourth)
-  
-  
+  puts first
+  puts second
+  puts third
+  puts fourth
 end
 
 #print_student_names
