@@ -20,7 +20,8 @@ end
 
 def print_hello_name( name )
   
-  puts "Hello Safae"
+  puts "Hello" + name  
+
 end
 
 
