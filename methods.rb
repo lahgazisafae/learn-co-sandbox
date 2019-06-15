@@ -18,7 +18,7 @@ end
 
 #print_hello_world
 
-def print_hello_name
+def print_hello_name( name )
   puts "Hello Safae"
 end
 
