@@ -10,3 +10,5 @@ def print_student_names
 end
 
 print_student_names
+print_student_names
+print_student_names
