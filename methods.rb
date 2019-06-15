@@ -20,7 +20,7 @@ end
 
 def print_hello_name( name )
   
-  puts "Hello" + name  
+  puts "Hello " + name  
 
 end
 
