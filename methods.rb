@@ -41,7 +41,9 @@ name = "safae"
 
 print_hello_name(name)
 
-
+def add_numbers(x,y)
+  puts x + y 
+end
 
 
 
