@@ -16,7 +16,7 @@ def  print_students(first,second, third, fourth)
   puts fourth
 end
 
-print_student_names("safae", "gary", "paris", "Courtney")
+print_students("safae", "gary", "paris", "Courtney")
 
 print_student_names
 
