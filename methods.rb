@@ -1,4 +1,4 @@
-def print_name
+def print_student_names
   puts "Safae"
   puts "Gary"
   puts "Paris"
