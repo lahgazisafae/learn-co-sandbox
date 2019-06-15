@@ -26,5 +26,5 @@ end
 
 print_hello_name("Martin")
 
-print_hello_name(6)
+print_hello_name("6")
 
