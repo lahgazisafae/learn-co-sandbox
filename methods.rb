@@ -9,7 +9,7 @@ def print_student_names
   puts "Jon"
 end
 
-def  print_student_names(first,second, third, fourth)
+def  print_students(first,second, third, fourth)
   puts first
   puts second
   puts third
