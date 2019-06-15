@@ -9,7 +9,7 @@ def print_student_names
   puts "Jon"
 end
 
-print_student_names
+#print_student_names
 
 
 def print_hello_world
