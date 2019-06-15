@@ -24,5 +24,5 @@ def print_hello_name( name )
 
 end
 
-
+print_hello_name("Martin")
 
