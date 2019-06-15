@@ -28,3 +28,6 @@ print_hello_name("Martin")
 
 print_hello_name("6")
 
+name = "safae"
+print_hello_name(name)
+
