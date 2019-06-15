@@ -18,7 +18,7 @@ end
 
 print_student_names("safae", "gary", "paris", "Courtney")
 
-#print_student_names
+print_student_names
 
 
 def print_hello_world
