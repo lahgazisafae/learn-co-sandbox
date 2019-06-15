@@ -45,5 +45,5 @@ def add_numbers(x,y)
   puts x + y 
 end
 
-
+add_numbers(3,4)
 
