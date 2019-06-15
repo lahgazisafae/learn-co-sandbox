@@ -14,5 +14,7 @@ print_student_names
 print_student_names
 
 def print_hello_world
-  
+  puts "Hello World!"
+end 
+
 
